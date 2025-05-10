@@ -9,20 +9,20 @@ should be written with two digits after the decimal point, as in the example bel
 
 Input file: Operations.txt: 
 
-- + 15.225 30.51
-
-- - 42.1 10.01
-
-- * 0.62 2.4
-
-- / 5.0 2.5
+ \+ 15.225 30.51
+ 
+ \- 42.1 10.01
+ 
+ \* 0.62 2.4
+ 
+ \/ 5.0 2.5
 
 Output file: Results.txt:
 
-- + 45.74
+ \+ 45.74
+ 
+ \- 32.09
 
-- - 32.09
+ \* 1.49
 
-- * 1.49
-
-- / 2.00
+ \/ 2.00
